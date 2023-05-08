@@ -1,12 +1,18 @@
-header {
-    background-color: #e46ba7;
-    color:rgb(216, 187, 187);
+.cabecalho{
+    background-color: #ec7cb4;
+    color:rgb(236, 204, 204);
+    display: flex;
+    justify-content: space-around;
 }
 .neymar{
-    width: 210px;
+    width: 500px;
     position: relative;
     top: 50px;
-    left: 115px;
+    left: 150px;
 }
-   
+.cabecalho-lista-item{
+   display: inline-block;
+
+} 
+
 
