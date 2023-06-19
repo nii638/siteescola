@@ -12,7 +12,25 @@
 }
 .cabecalho-lista-item{
    display: inline-block;
+   margin: 0 16px;
+   padding: 24px 0;
+   font-size: 24px;
+}
+.escola-imagem{
+   width: 25%;
+}
+.escola{
+   background-image: linear-gradient(#8f9ce4,#77dfe0);
+   color: black;
+   display: flex;
+}
+.escola-conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-} 
+}
+
 
 
